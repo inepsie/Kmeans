@@ -10,6 +10,7 @@ Le Kmeans utilise une distance de Minkowski pour calculer les distances aux cent
 
 Le Kmeans est paramétrable à travers deux arguments : le nombre de clusters recherchés et l'ordre de la distance de Minkowski.
 
-Le programme produit une image du partitionnement à chaque tour du Kmeans. Finalement, il compile ces images pour produire une vidéo.
+Le programme produit une image du partitionnement à chaque tour du Kmeans. Finalement, il compile ces images pour produire une vidéo. Exemple :
 
 
+https://user-images.githubusercontent.com/58478614/233799415-987f981f-7a94-42e3-b11e-2505f6222655.mp4
